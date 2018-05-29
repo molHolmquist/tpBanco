@@ -3,9 +3,7 @@ package banco;
 public class Cliente {
 
 	
-	//Comentario para ver se o github esta funcionando
-	// galgalgalgfglkwafnldfknjsafkljasdfnlkdsfnsalkn
-	//jkafnskfjsdfndkfjnsadfksajnfk
+	//Comentario util
 	public static void main(String[] args) {
 		
 		Cliente juse = new Cliente("Juse","07320176610","Rua Jose Afonso","3241-5264");
